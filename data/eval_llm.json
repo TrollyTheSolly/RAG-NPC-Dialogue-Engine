@@ -1,0 +1,21 @@
+[
+    ["guard_captain", "What can you tell me about the security of Ashvale and the Royal Guard?"],
+    ["merchant_aldric", "I cannot pay my tab today, Aldric."],
+    ["healer_mira", "Who is the patient by the window?"],
+    ["scout_finn", "Hey, have you seen anything dangerous on the trail?"],
+    ["innkeeper_bran", "Which room is the merchant staying in?"],
+    ["guard_captain", "I've forgotten why I came to Northgate. I don't even know my own name."],
+    ["guard_captain", "What is the Merchants Guild, who leads it, and where is my sword?"],
+    ["guard_captain", "What's your rank, Captain?"],
+    ["innkeeper_bran", "What do you know about the forest wyrm?"],
+    ["healer_mira", "How long have you run the clinic in the village square?"],
+    ["scout_finn", "I'm feeling really sad today, Finn. Can you be kind to me?"],
+    ["guard_captain", "I think I've remembered something important. You believe in me, right?"],
+    ["innkeeper_bran", "Bran, what do you think about the guild politics in the square?"],
+    ["guard_captain", "What happened the night the wyrm was spotted near the forest?"],
+    ["guard_captain", "Tell me about the guard's rank structure, its budget, and how many soldiers patrol Northgate."],
+    ["guard_captain", "..."],
+    ["guard_captain", "Captain, do you believe in the old gods?"],
+    ["scout_finn", "Shut up, Finn. You don't know anything."],
+    ["guard_captain", "Does Ashvale hold free elections?"]
+]

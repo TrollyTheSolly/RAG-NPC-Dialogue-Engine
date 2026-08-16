@@ -1,0 +1,74 @@
+{
+    "People": {
+        "Reyes": [
+            "Captain Reyes commands the Royal Guard at Northgate.",
+            "Captain Reyes inspects the northern gate every morning.",
+            "Captain Reyes served under the previous king before Aldric II took the throne.",
+            "Captain Reyes holds Northgate in the king's absence."
+        ],
+        "Mira": [
+            "Mira is the village healer.",
+            "Mira tends to wounded travelers at the clinic beside the Market Square.",
+            "Mira learned herb-craft from the monks of the eastern hills.",
+            "Mira's clinic treats farmers from the eastern fields when fever spreads."
+        ],
+        "Aldric": [
+            "Aldric leads the Merchants Guild.",
+            "Aldric keeps his stall open from dawn until dusk in the Market Square.",
+            "Aldric once loaned the guild treasury to rebuild the Northgate barracks."
+        ],
+        "Finn": [
+            "Finn is a scout who patrols the forest edge.",
+            "Finn found large tracks near the eastern trail and warned the village.",
+            "Finn grew up in Ashvale and knows every path through the Greywood.",
+            "Finn refuses to enter the deep forest alone after dark."
+        ],
+        "Bran": [
+            "Bran runs the Silver Inn.",
+            "Bran charges extra for quiet rooms.",
+            "Bran inherited the Silver Inn from his uncle and has run it for twelve years."
+        ],
+        "Aldric II": [
+            "King Aldric II rules the kingdom of Ashvale from the capital."
+        ]
+    },
+    "Places": {
+        "Ashvale": [
+            "Ashvale is a kingdom north of the Greywood Forest."
+        ],
+        "Northgate": [
+            "Northgate is a fortified settlement guarded by the Royal Guard.",
+            "The northern road runs between Northgate and the Silver Inn."
+        ],
+        "Market Square": [
+            "The Market Square is the commercial heart of the village.",
+            "The Merchants Guild meets weekly in the Market Square."
+        ],
+        "Silver Inn": [
+            "The Silver Inn sits on the road between Northgate and the capital.",
+            "Bran is the innkeeper of the Silver Inn."
+        ],
+        "Greywood Forest": [
+            "The Greywood Forest lies south of Ashvale.",
+            "A forest wyrm was spotted near the eastern trail last winter."
+        ]
+    },
+    "Items": {},
+    "Factions_and_Groups": {
+        "Royal Guard": [
+            "The Royal Guard patrols the northern road and defends Northgate.",
+            "Captain Reyes commands the Royal Guard at Northgate."
+        ],
+        "Merchants Guild": [
+            "The Merchants Guild settles trade disputes in the Market Square.",
+            "Aldric leads the Merchants Guild."
+        ]
+    },
+    "History_and_Timeline": {
+        "Wyrm Sighting": [
+            "A forest wyrm was spotted near the eastern trail last winter.",
+            "Travelers report wyrm tracks the size of wagon wheels."
+        ]
+    },
+    "Regulations": {}
+}

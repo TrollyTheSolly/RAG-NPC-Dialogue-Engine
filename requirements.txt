@@ -1,0 +1,8 @@
+anthropic
+chromadb
+google-generativeai
+google-api-core
+sentence-transformers
+spacy
+tenacity
+torch

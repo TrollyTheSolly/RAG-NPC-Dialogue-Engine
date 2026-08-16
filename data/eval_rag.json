@@ -1,0 +1,58 @@
+{
+    "Single Recall": {
+        "questions": [
+            "Who commands the Royal Guard at Northgate?",
+            "What is the name of the village healer?",
+            "Who runs the Silver Inn?",
+            "Who leads the Merchants Guild?"
+        ],
+        "answers": [
+            ["Reyes", "Captain"],
+            ["Mira"],
+            ["Bran"],
+            ["Aldric"]
+        ]
+    },
+    "Multi-Recall": {
+        "questions": [
+            "Who runs the Silver Inn and who leads the Merchants Guild?",
+            "Tell me about the healer, the scout, and the creature in the forest.",
+            "Who commands Northgate and where is the Market Square?",
+            "Who is Finn and what did he find on the trail?"
+        ],
+        "answers": [
+            ["Bran", "Aldric"],
+            ["Mira", "Finn", "Wyrm"],
+            ["Reyes", "Market Square"],
+            ["Finn", "tracks"]
+        ]
+    },
+    "Avoiding Named Entity": {
+        "questions": [
+            "Who is the stern officer at the northern barracks?",
+            "Who tends to the sick in the village clinic?",
+            "What is the name of the restless youth at the forest edge?",
+            "Who counts coins at the crowded stall?"
+        ],
+        "answers": [
+            ["Reyes", "Captain"],
+            ["Mira"],
+            ["Finn"],
+            ["Aldric"]
+        ]
+    },
+    "Muddying Response": {
+        "questions": [
+            "Hi Bran, lovely fire tonight. Who commands the gate anyway?",
+            "Mira, thank you for the herbs. Who runs the guild in the square?",
+            "Look, bandits are closing in and I need to know who patrols Northgate.",
+            "I've walked the forest all day with Finn and I'm exhausted. Who runs the inn?"
+        ],
+        "answers": [
+            ["Reyes", "Captain"],
+            ["Aldric", "Merchants Guild"],
+            ["Reyes"],
+            ["Bran", "Silver Inn"]
+        ]
+    }
+}
